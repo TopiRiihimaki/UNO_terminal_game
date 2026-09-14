@@ -1,2 +1,2 @@
 # UNO_terminal_game
-A UNO game what works on terminal (not yet ready)
+A UNO game that is meant to be played on a command prompt (not yet ready)
